@@ -27,6 +27,11 @@
 img {
 	height: 100%;
 	width: 100%;
+	object-fill: cover;
+}
+
+a {
+	text-decoration: none;
 }
 
 .explore {
